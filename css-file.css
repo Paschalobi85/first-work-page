@@ -1,0 +1,37 @@
+p{
+    color:blue;     
+}
+    .fa-whatsapp{
+        color:green;
+    }
+    .fa-facebook{
+        color:blue;
+    }
+    .fa-instagram{
+        color:pink;
+        font-size: 30px;
+    }
+    a{
+        text-decoration: none;
+    }
+    .fa-solid{
+        color: gold;
+    }
+    /*how to write a comment in css*/
+
+    .p1{
+        font-family: 'franklin gothic medium', 'arial narrow', arial, sans-serif; font-size: 20px;
+    }
+    .p2{
+        font-family: 'franklin gothic medium', 'arial narrow', arial, sans-serif; font-size: 20px;
+    }
+    .p3{
+        font-family: 'franklin gothic medium', 'arial narrow', arial, sans-serif; font-size: 20px;
+    }
+    .p4{
+        font-family: 'franklin gothic medium', 'arial narrow', arial, sans-serif; font-size: 20px;
+    }
+    section > p{
+        color: red;
+        font-family: 'franklin gothic medium', 'arial narrow', arial, sans-serif; font-size: 30px;
+    }

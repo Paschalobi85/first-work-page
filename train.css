@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body {
+  margin: 0;
+  margin-top: 40px;
+  height: 80vh;
+  font-style: normal;
+  font-style: italic;
+  font-style: oblique;
+  background: black;
+  background: url(../8b88c56df201e0dd32fa987a3e7876ec.jpg);
+  
+    
+}
+.login{
+    
+    height: 100%;
+    width: 90%;
+    border: 4px solid grey; 
+    border-radius: 30px;
+    margin-left: 65px;
+    margin-top: 65px;
+    
+}
+.page{
+    background: url(../train.jpeg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-size: 60%;
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 300px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    border-radius: 20px;
+}
+.page h2{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    font-size: 25px;
+
+}
+.page h1{
+    margin-left: 50px;
+    margin-bottom: 30px;
+
+}
+.page p{
+    font-size: small;
+}
+.page h5{
+    margin-top: 140px;
+    margin-left: 20px;
+}
+
+.first{
+    
+    width:60%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+.second{
+    background: transparent;
+    border: 0px solid grey;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-radius: 20px;
+    text-align: center;
+}
+.second p{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-right: 100px;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+}
+.second p button{
+    background: black;
+    border: 10px bold ;
+    font-size: small;
+    font-weight: bolder;
+}
+.search{
+    display: flex;
+    justify-content:space-evenly;
+    margin-right: 95px;
+    font-size: small;
+    font:bold;
+    
+}
+.search button{
+    font-size: small;
+    font-weight: bold;
+   
+
+}
+.second-2{
+    margin-top: 70px;
+    margin-right: 80px;
+    
+    
+}
+.second-2 input{
+    width: 230px;
+    height: 30px;
+    border: 60px bolder black;
+    border-radius: 5px;
+    
+}
+.done{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+.done button{
+    background: transparent;
+    font-size: larger;
+}
